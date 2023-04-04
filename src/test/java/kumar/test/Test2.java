@@ -1,15 +1,16 @@
 package kumar.test;
 
-public class Test2 {
+public class Test14{
 
-	public static void main(String[] args) {
-		System.out.println("hi ...");
-		System.out.println("testing ...");
+public static void main(String[] args) {
 
-		System.out.println(" github...");
-
-		System.out.println("mahesh.....");
-
+		int a=200;
+		int b=400;
+		System.out.println(a&b); 
+		System.out.println(a|b); 
+		System.out.println(a^b); 
+		System.out.println(a<<b); 
+		System.out.println(a>>b);  
 
 	}
 
